@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmytro
 ===============================================================================================================================
-
-Full-Stack JavaScript
 ---------------------
 
 I am a Full-Stack JavaScript developer with a primary focus on React and Node.js.
@@ -41,7 +39,5 @@ I constantly improve my skills, staying interested in modern frontend and backen
 </td><td valign="top" width="45%">
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DimPack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DimPack&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimPack&hide_border=true&layout=compact" align="left" />  
