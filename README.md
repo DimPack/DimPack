@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---------------------
 
 <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBqNmJscWU1dnZvdzJ2ODkxbmE3anI3dTZ4anhiZjBjczJ3ZHNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChKeGsmsfE3Un6/giphy.gif)" width="500" />
-<h3 align="left">Full-Stack developer</h3>
+<h3 align="center">Full-Stack developer</h3>
 <div align="center">
 <a href="https://github.com/DimPack" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -27,23 +27,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="left">👩‍💻 About me</h3>
 
-I am a Full-Stack JavaScript developer with a primary focus on React and Node.js.
-
-In web development, I have found the perfect combination of logic, structure, and creativity, and this is the field where I can grow and make a meaningful contribution.
-
-I studied at the Full-Stack JS Developer course, where I gained practical experience working with React, Redux Toolkit, Node.js, Express, PostgreSQL, and MongoDB. During my training, I built various projects — from simple components and small applications to full-fledged fullstack solutions with server-side logic, databases, and REST API integration. This gave me a solid understanding of the full development cycle and working on projects close to real-world scenarios.
-
-I constantly improve my skills, staying interested in modern frontend and backend technologies, as well as web application architecture. My goal is to develop in the field of web development, create convenient and scalable solutions, and work on products that bring value to people.
-
-
----------------------
-
-
-<h3 align="left">🚀 Technologies:</h3>
-
+I am a Full-Stack JavaScript developer focused on React and Node.js.
+I completed a Full-Stack JS Developer course, gaining hands-on experience with React, Redux Toolkit, Node.js, Express, PostgreSQL, and MongoDB, building projects from components to fullstack applications with server logic and REST APIs.
+I continuously improve my skills, exploring modern frontend and backend technologies, aiming to create scalable, user-friendly web solutions.
 
 
 <div align="center">
+  
+---------------------
+
 <h2 align="left">💻 Frontend</h2>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -61,6 +53,8 @@ I constantly improve my skills, staying interested in modern frontend and backen
 
 
 <div align="center">
+  
+
 <h2 align="left">⚙️ Backend</h2>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -75,7 +69,10 @@ I constantly improve my skills, staying interested in modern frontend and backen
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimPack&hide_border=true&layout=compact" align="left" />  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DimPack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimPack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
