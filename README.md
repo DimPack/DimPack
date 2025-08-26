@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---------------------
 
 <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBqNmJscWU1dnZvdzJ2ODkxbmE3anI3dTZ4anhiZjBjczJ3ZHNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChKeGsmsfE3Un6/giphy.gif)" width="500" />
-<h3 align="left">Full-Stack develope</h3>
+<h3 align="left">Full-Stack developer</h3>
 <div align="center">
 <a href="https://github.com/DimPack" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
